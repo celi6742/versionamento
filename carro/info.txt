@@ -1,0 +1,4 @@
+rodas
+banco
+modelo do carro
+cor
